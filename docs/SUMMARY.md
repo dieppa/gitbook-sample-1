@@ -1,4 +1,13 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+
+## Overview
+
+* [First steps](overview/first-steps.md)
+* [Second steps](overview/second-steps.md)
+
+## Documentation
+
+* [Transactions](documentation/transactions.md)
 

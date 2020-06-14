@@ -1,6 +1,6 @@
 # Transactions
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:idasd" %}
 {% api-method-summary %}
 Get Cakes
 {% endapi-method-summary %}
